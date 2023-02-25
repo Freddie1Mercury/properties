@@ -1,0 +1,15 @@
+C:\Users\Фредди Меркьюри\Desktop\source\АлексООП\АлексООП\bin\Debug\net6.0\АлексООП.exe
+C:\Users\Фредди Меркьюри\Desktop\source\АлексООП\АлексООП\bin\Debug\net6.0\АлексООП.deps.json
+C:\Users\Фредди Меркьюри\Desktop\source\АлексООП\АлексООП\bin\Debug\net6.0\АлексООП.runtimeconfig.json
+C:\Users\Фредди Меркьюри\Desktop\source\АлексООП\АлексООП\bin\Debug\net6.0\АлексООП.dll
+C:\Users\Фредди Меркьюри\Desktop\source\АлексООП\АлексООП\bin\Debug\net6.0\АлексООП.pdb
+C:\Users\Фредди Меркьюри\Desktop\source\АлексООП\АлексООП\obj\Debug\net6.0\АлексООП.csproj.AssemblyReference.cache
+C:\Users\Фредди Меркьюри\Desktop\source\АлексООП\АлексООП\obj\Debug\net6.0\АлексООП.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Фредди Меркьюри\Desktop\source\АлексООП\АлексООП\obj\Debug\net6.0\АлексООП.AssemblyInfoInputs.cache
+C:\Users\Фредди Меркьюри\Desktop\source\АлексООП\АлексООП\obj\Debug\net6.0\АлексООП.AssemblyInfo.cs
+C:\Users\Фредди Меркьюри\Desktop\source\АлексООП\АлексООП\obj\Debug\net6.0\АлексООП.csproj.CoreCompileInputs.cache
+C:\Users\Фредди Меркьюри\Desktop\source\АлексООП\АлексООП\obj\Debug\net6.0\АлексООП.dll
+C:\Users\Фредди Меркьюри\Desktop\source\АлексООП\АлексООП\obj\Debug\net6.0\refint\АлексООП.dll
+C:\Users\Фредди Меркьюри\Desktop\source\АлексООП\АлексООП\obj\Debug\net6.0\АлексООП.pdb
+C:\Users\Фредди Меркьюри\Desktop\source\АлексООП\АлексООП\obj\Debug\net6.0\АлексООП.genruntimeconfig.cache
+C:\Users\Фредди Меркьюри\Desktop\source\АлексООП\АлексООП\obj\Debug\net6.0\ref\АлексООП.dll
